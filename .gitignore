@@ -1,0 +1,5 @@
+conf/.env
+conf/__pycache__/
+files/address-mkpl.csv
+files/address-2.4.csv
+files/sku.csv
