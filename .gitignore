@@ -1,5 +1,6 @@
 conf/.env
 conf/__pycache__/
+.idea/
 files/address-mkpl.csv
 files/address-2.4.csv
 files/sku.csv
